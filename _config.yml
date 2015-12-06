@@ -1,6 +1,6 @@
 # Site settings
 title: Dataviz
-email: marcel.petersen@live.nlm
+email: marcel.petersen@live.nl
 description: > # this means to ignore newlines until "baseurl:"
   Een start met Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog/
